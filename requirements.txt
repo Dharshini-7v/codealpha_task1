@@ -1,5 +1,0 @@
-streamlit
-googletrans
-pyperclip
-html
-streamlit.components.v1 
