@@ -43,5 +43,5 @@ pip install -r requirements.txt
 
 ### Step 3: Run the App
 ```bash
-streamlit run translator-app.py
+streamlit run t_app.py
 
