@@ -45,3 +45,8 @@ pip install -r requirements.txt
 ```bash
 streamlit run t_app.py
 
+or else
+copy the t_app.py file in VS code
+install the libraries using  terminal in VS code
+and copy and paste step 3 in terminal and make sure it is python version 3.11
+
