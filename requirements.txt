@@ -1,5 +1,5 @@
 streamlit
-googletrans
+googletrans==4.0.0-rc1
 pyperclip
 html
 streamlit.components.v1 
