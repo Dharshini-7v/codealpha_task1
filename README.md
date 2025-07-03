@@ -36,7 +36,7 @@ English, Tamil, Hindi, French, German, Spanish, Telugu, Japanese, Chinese, Arabi
 git clone https://github.com/Dharshini-7v/codealpha_task1.git
 cd codealpha_task1
 
-### step 2: install the libraries
+### Step 2: install the libraries
 ```bash
 pip install -r requirements.txt
 
@@ -48,5 +48,5 @@ streamlit run t_app.py
 or else
 copy the t_app.py file in VS code
 install the libraries using  terminal in VS code
-and copy and paste step 3 in terminal and make sure it is python version 3.11
+and copy and paste step 3 in terminal and make sure it is python version 3.10+
 
