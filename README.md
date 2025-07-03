@@ -35,15 +35,17 @@ English, Tamil, Hindi, French, German, Spanish, Telugu, Japanese, Chinese, Arabi
 ```bash
 git clone https://github.com/Dharshini-7v/codealpha_task1.git
 cd codealpha_task1
+```
 
 ### Step 2: install the libraries
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### Step 3: Run the App
 ```bash
 streamlit run t_app.py
+```
 
 or else
 copy the t_app.py file in VS code
